@@ -7,3 +7,5 @@ Naszym Zadaniem było stworzyć program, gdzie:
 3. Obliczał prędkość, która się cały czas zmieniała, aż do prędkości maksymalnej.
 4. Obliczał energię kinetyczną i potencjalną.
 5. Wszystkie dane wypluwał do pliku textowego.
+
+(To chyba wszyskie pliki ale nie jestem pewny)
