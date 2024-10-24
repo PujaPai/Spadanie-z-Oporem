@@ -1,5 +1,5 @@
 # Spadanie z Oporem
-Mały szklony projekt z 2 osobami
+Mały szkolny projekt z 2 osobami
 
 Naszym Zadaniem było stworzyć program, gdzie:
 1. Użytkownik wybiera jedno z 3 ciał (kwadrat, koło, kroplę)
